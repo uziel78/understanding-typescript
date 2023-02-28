@@ -5,5 +5,5 @@ This is a 15 hour video course in total.
 Sections Completed:
 
 1. Getting Started
-2. Typescript & Basic Types
+2. Typescript Basics & Basic Types
 3.
