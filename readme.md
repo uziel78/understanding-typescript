@@ -13,4 +13,5 @@ Sections Completed:
 2. Typescript Basics & Basic Types
 3. Typescript Compiler
 4. Next-generation Javascript & Typescript (video only)
-5.
+5. Classes & Interfaces
+6.
