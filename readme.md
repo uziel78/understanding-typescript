@@ -12,4 +12,5 @@ Sections Completed:
 1. Getting Started
 2. Typescript Basics & Basic Types
 3. Typescript Compiler
-4.
+4. Next-generation Javascript & Typescript (video only)
+5.
