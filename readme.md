@@ -14,4 +14,5 @@ Sections Completed:
 3. Typescript Compiler
 4. Next-generation Javascript & Typescript (video only)
 5. Classes & Interfaces
-6.
+6. Advanced Types
+7.
