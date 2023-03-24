@@ -15,4 +15,5 @@ Sections Completed:
 4. Next-generation Javascript & Typescript (video only)
 5. Classes & Interfaces
 6. Advanced Types
-7.
+7. Generics
+8.
