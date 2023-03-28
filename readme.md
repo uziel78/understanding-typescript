@@ -18,4 +18,11 @@ Sections Completed:
 6. Advanced Types
 7. Generics
 8. Decorators
-9.
+9. Drag & Drop Project (extracted to separate project on github account)
+10. Modules & Namespaces
+11. Using Webpack with Typescript
+12. 3rd Party Libraries & Typescript
+13. Time to Practice! Let's build a "Select & Share a Place" App (incl. Google Maps), (extracted to separate project on gihub account)
+14. React.js and Typescript
+15. Node.js + Express & Typescript
+16. Course Roundup
