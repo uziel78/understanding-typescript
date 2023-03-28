@@ -6,6 +6,7 @@ npr run start to get localhost running.
 tsc -w then enters watch mode for all ts files.
 
 This is a 15 hour video course in total.
+The work-files are in the src/ts-work-files directory (link to in index.html file as needed).
 
 Sections Completed:
 
@@ -16,4 +17,5 @@ Sections Completed:
 5. Classes & Interfaces
 6. Advanced Types
 7. Generics
-8.
+8. Decorators
+9.
