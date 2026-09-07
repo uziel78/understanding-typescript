@@ -13,7 +13,7 @@
 //   role: [2, 'author'],
 // };
 
-//code that could still be run (not ideal inference without role setto tuple)
+//code that could still be run (not ideal inference without role set to tuple)
 //person.role.push('admin');
 //person.role[1] = 10;
 
